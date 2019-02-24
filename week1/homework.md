@@ -1,17 +1,17 @@
 # Homework
 
-The idea of this exercises is to practice what we learned during the class.
-There are two parts: in the first one we will practice the basics of git and github, while in the second part we will practice working with branches and doing pull requests.
+The idea of these exercises is to practice what we learned during the class.
+There are two parts: in the first part we will practice the basics of git and github. This part is very important, since you will be using the same workflow to submit your homework from now on. The second part is about branches and is totally optional, but if you are curious watch [this](https://drive.google.com/open?id=1kzCFRmUrNGhTOKfw5Q_57VfMLVOYqOhO) video and give it a try :)
 
 ## Part 1
 
-1. Go to https://github.com/HackYourFuture-CPH/hyf-homework and fork this repository. Now you should have the `hyf-homework` repository in your own github account.
-2. Clone the `hyf-homework` repository from YOUR github account.
-3. Inside the folder `git/week1` create a new file named `my_favorite_food.txt`, inside the file write your favorite food recipe, and commit your changes (you can just find a random recipe on google and paste it in the file :wink: ).
-4. Again inside the folder `git/week1` add a new file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food, and commit your changes.
-5. Inside the folder `git/week1` create a third file named `countries.txt` where you list three countries that you have visited (this does not need to be true, you can just write the names of three random countries), and commit your changes
+1. Go to your Github account, create a repository called `git_homework`.
+2. Clone the `git_homework` repository from your github account.
+3. On the repository that you now have on your computer, create a new file named `my_favorite_food.txt`, inside the file write your favorite food recipe, and commit your changes (you can just find a random recipe on google and paste it in the file :wink: ).
+4. Again in your local repository create a new file named `my_second_favorite_food.txt`, inside the file write the recipe for your second favorite food, and commit your changes.
+5. Again in your local repository create a third file named `countries.txt` where you list three countries that you have visited (this does not need to be true, you can just write the names of three random countries), and commit your changes
 6. Add a fourth country name to the file `countries.txt`, and commit your changes again.
-7. Push your changes into your `hyf-homework` repository on github.
+7. Push your changes into your `git_homework` repository on github.
 
 
 Commands that  you will need:
@@ -31,8 +31,8 @@ Useful git commands:
 ## Part 2
 In this part you will create your own local repository, use branches to make changes, solve a merge conflict, and once you merged your branches into master, you will create a repository with the same name on github and push your changes to github.
 
-1. create folder `git_homework`
-2. start a git repository inside the folder `git_homework`
+1. create folder `git_homework_branches`
+2. start a git repository inside the folder `git_homework_branches`
 2. create file `homework_file.txt`, add line "my homework"
 3. add file `homework_file.txt` to repository and commit your changes
 4. create branch `fix_something`
