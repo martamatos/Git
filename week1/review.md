@@ -7,9 +7,11 @@ Tutorial for HackYourFuture Git basics :octocat:. This tutorial has five section
 5. Others
 
 Also you can watch the following videos that summarize the class contents:
- - [Git intro part 1](https://drive.google.com/open?id=1fubN-BDbdAAxcWxyUso7Pi-eLhWNzjdH)
- - [Git intro part 2](https://drive.google.com/open?id=17NMQ9EuS9Fo339noRQ-LBn4qwVRhKzGC)
- - [Git intro part 3](https://drive.google.com/open?id=1k8edrup6PEyPpuJG_6bRVXSTUlghUVSs)
+ - [Git  part 1](https://drive.google.com/open?id=1N4CPofaS_lfmx0ztRZxhbmvHfwKK4t94) - how to create a git repository on our computer and track our changes.
+ - [Git part 2](https://drive.google.com/open?id=1WeD7OQAYmJZ5oClxV7AjXaD8zBGKT51x) - how to upload the git repository in our computer to github.
+ - [Git part 3](https://drive.google.com/open?id=1bQuR4cOsemQ5oexoNaJS9mU82jJH6hDz) - how to get a github repository to our computer.
+ - [Git part 4](https://drive.google.com/open?id=1kzCFRmUrNGhTOKfw5Q_57VfMLVOYqOhO) - advanced part: why using branches in Git and how to work with them.
+ - [Git part 5](https://drive.google.com/open?id=1Wrk9A_2NCQBHqGgTOfKcY5qZ7UthHBFr) - advanced part: just showing how to contribute to open source projects with Github.
 
 # 1. Command line (bash)
 
