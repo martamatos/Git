@@ -43,9 +43,9 @@ In this part you will create your own local repository, use branches to make cha
 9. merge `fix_something` with `master`
 10. go to branch `add_content` and merge the branch `master` with it (there will probably be conflicts that you need to figure out)
 11. go to branch `master` and merge the branch `add_content` with it
-12. create a new github repository called `git_homework`
+12. create a new github repository called `git_homework_branches`
 13. push your changes in the master branch into the github repository you just created.
-14. post the link to your `git_homework` repository :slightly_smiling_face:
+14. post the link to your `git_homework_branches` repository :slightly_smiling_face:
 
 
 Git commands that you will need:
