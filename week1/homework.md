@@ -63,3 +63,15 @@ Command line commands that might be useful:
  - `mkdir <folder_name>` - to create a new folder
  - `ls`- list all the folder contents
  - `ls .*` - list all the folder contents, also invisible folders/files (e.g. the git folder)
+ 
+## Part 3
+To make your homework submission easier in the future i need you to make your `hyf-homework` repository look like this one:
+https://github.com/HackYourFuture-CPH/hyf-homework-template
+
+You can do that in (at least) 2 ways:
+1. just download that repository and copy the folders `databases`, `javascript`, `nodejs`, and `react` to your local `hyf-homework` repository (on your computer), commit the changes, and push to github (you already have the folder `html-css` and we can skip the `git` folder)
+2. create the folders manually in our local `hyf-homework` repository (on your computer), commit the changes, and push to github
+
+Every week you will push your homework to the folder corresponding to the module and week, e.g. in the second week of javascript 2, you will push your homework to the folder `javascript/javascript2/week2`.
+
+The structure in [this repo](https://github.com/HackYourFuture-CPH/hyf-homework-template) should be mirrored in your `hyf-homework` repo
