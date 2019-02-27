@@ -1,8 +1,12 @@
 # Homework
 
-The idea of these exercises is to practice what we learned during the class.
-There are two parts: in the first part we will practice the basics of git and github. This part is very important, since you will be using the same workflow to submit your homework from now on. The second part is about branches and is totally optional, but if you are curious watch [this](https://drive.google.com/open?id=1kzCFRmUrNGhTOKfw5Q_57VfMLVOYqOhO) video and give it a try :)
-
+The idea of these exercises is to practice what we learned during the class and make it easier for you to submit the homework in the future.
+There are three parts: 
+ 1. in the first part you will practice the basics of git and github. This part is very important, since you will be using the same workflow to submit your homework from now on.
+ 2. in this second part you will create the folder structure in your `hyf-homework` repository that you will use to submit your homework from now on.
+ 3. this third part is about branches and is totally optional, but if you are curious watch [this](https://drive.google.com/open?id=1kzCFRmUrNGhTOKfw5Q_57VfMLVOYqOhO) video and give it a try :)
+ 
+ 
 ## Part 1
 
 1. Go to your Github account, create a repository called `git_homework`.
@@ -26,9 +30,20 @@ Useful git commands:
   - `git log --oneline`
 
 
-
-
 ## Part 2
+To make your homework submission easier in the future i need you to make your `hyf-homework` repository look like this one:
+https://github.com/HackYourFuture-CPH/hyf-homework-template
+
+You can do that in (at least) 2 ways:
+1. just download that repository and copy the folders `databases`, `javascript`, `nodejs`, and `react` to your local `hyf-homework` repository (on your computer), commit the changes, and push to github (you already have the folder `html-css` and we can skip the `git` folder)
+2. create the folders manually in our local `hyf-homework` repository (on your computer), commit the changes, and push to github
+
+Every week you will push your homework to the folder corresponding to the module and week. For instance, in the second week of javascript 2, you will push your homework to the folder `javascript/javascript2/week2`.
+
+The structure in [this repo](https://github.com/HackYourFuture-CPH/hyf-homework-template) should be mirrored in your `hyf-homework` repo.
+
+
+## Part 3
 In this part you will create your own local repository, use branches to make changes, solve a merge conflict, and once you merged your branches into master, you will create a repository with the same name on github and push your changes to github.
 
 1. create folder `git_homework_branches`
@@ -64,14 +79,4 @@ Command line commands that might be useful:
  - `ls`- list all the folder contents
  - `ls .*` - list all the folder contents, also invisible folders/files (e.g. the git folder)
  
-## Part 3
-To make your homework submission easier in the future i need you to make your `hyf-homework` repository look like this one:
-https://github.com/HackYourFuture-CPH/hyf-homework-template
 
-You can do that in (at least) 2 ways:
-1. just download that repository and copy the folders `databases`, `javascript`, `nodejs`, and `react` to your local `hyf-homework` repository (on your computer), commit the changes, and push to github (you already have the folder `html-css` and we can skip the `git` folder)
-2. create the folders manually in our local `hyf-homework` repository (on your computer), commit the changes, and push to github
-
-Every week you will push your homework to the folder corresponding to the module and week, e.g. in the second week of javascript 2, you will push your homework to the folder `javascript/javascript2/week2`.
-
-The structure in [this repo](https://github.com/HackYourFuture-CPH/hyf-homework-template) should be mirrored in your `hyf-homework` repo
